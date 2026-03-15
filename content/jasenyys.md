@@ -1,0 +1,52 @@
+---
+title: "Jäsenyys"
+description: "Liity Suomen Palikkaharrastajat ry:n jäseneksi ja nauti jäseneduista."
+slug: jasenyys
+published: true
+nav: true
+---
+
+# Jäsenyys
+
+Yksityishenkilöt voivat liittyä jäseneksi maksamalla vuosittaisen jäsenmaksun ja toimittamalla tarvittavat tiedot: nimi, asuinkunta, sähköpostiosoite ja valinnainen BrickLink-käyttäjänimi. Hallitus hyväksyy jäsenhakemukset. Jäsenyys on voimassa maksuvuoden loppuun. Jos hakemus hylätään, maksu palautetaan.
+
+<callout type="info">
+
+**Vuosijäsenyys 2026 — 10,00 €**
+
+Jäsenmaksu oikeuttaa kaikkiin jäsenetuihin ja antaa äänioikeuden yhdistyksen kokouksissa (15 vuotta täyttäneille).
+
+</callout>
+
+## Jäsenmaksun maksaminen
+
+[Maksa jäsenmaksu](https://suomenpalikkayhteiso.fi/tuote/vuosijasenyys-suomen-palikkayhteiso-ry) ja toimita tietosi osoitteeseen palikkaharrastajatry@outlook.com tai yhdistyksen foorumilla osoitteessa [forum.palikkaharrastajat.fi](https://forum.palikkaharrastajat.fi).
+
+## Jäsenedut 2025
+
+Vuonna 2025 jäsenemme saivat alennuksia useista LEGO-alan liikkeistä:
+
+### Panttilan palikka (Kurikka, LEGO-kauppa)
+- 10 % alennus tilauksista
+- 15 % alennus yli 80 euron tilauksista
+- Ei koske minifiguureja ja settejä
+
+### Grizzlies' Bricks (BrickLink)
+- 10 % alennus
+- 15 % alennus yli 80 euron tilauksista
+
+### Savo Bricks (BrickLink)
+- 5 % alennus
+- 10 % alennus yli 20 euron tilauksista
+- 15 % alennus yli 40 euron tilauksista
+
+### Joshua's Train Bricks (juna-aiheinen BrickLink)
+- 10 % alennus
+
+### Aletuu (LEGO-irtopalat)
+- 15 % alennus täysistä laatikoista
+- 50 % alennus irto- ja myymättömistä tuotteista
+- Koodi VIP2025 BrickLink-tilauksiin
+
+### Fantasialinna (myymälä)
+- 10 % alennus jäsenkortilla
