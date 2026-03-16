@@ -5,9 +5,15 @@ slug: index
 published: true
 ---
 
+# Suomen Palikkaharrastajat ry
+
+<with-image src="./images/suurennuslasi.png" alt="LEGO-harrastaja" side="right">
+
 ## Mitä?
 
 Suomen Palikkaharrastajat ry on LEGO-harrastajien rekisteröity yhdistys. Yhdistys kokoaa yhteen LEGO-harrastajia, järjestää harrastusta tukevaa toimintaa, tukee jäseniään omien LEGO-tapahtumien järjestämisessä ja osallistuu muiden järjestämiin tapahtumiin.
+
+</with-image>
 
 ## Missä?
 
